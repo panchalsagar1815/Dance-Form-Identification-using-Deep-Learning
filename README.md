@@ -1,4 +1,4 @@
-# Dance-Form-Ide
+# Dance-Form
 #**Project Title: Dance Form Identification using Deep Learning**
 
 **Overview:**
