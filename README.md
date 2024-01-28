@@ -1,6 +1,6 @@
 # Dance-Form-Identification-using-Deep-Learning
 
-**Project Title: Dance Form Identification using Deep Learning**
+#**Project Title: Dance Form Identification using Deep Learning**
 
 **Overview:**
 The "Dance Form Identification using Deep Learning" project focuses on developing a sophisticated deep learning model capable of identifying various dance forms based on images of people performing dance routines. By leveraging state-of-the-art deep learning techniques, this project aims to contribute to the automated recognition of dance forms, catering to the fields of entertainment, cultural preservation, and dance education.
